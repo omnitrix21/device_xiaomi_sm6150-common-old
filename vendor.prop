@@ -213,3 +213,7 @@ suspend.max_sleep_time_millis=40000
 
 # WiFi
 wifi.aware.interface=wifi-aware0
+
+# Dex2oat
+dalvik.vm.dex2oat64.enabled=true
+
